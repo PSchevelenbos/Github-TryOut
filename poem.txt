@@ -3,6 +3,7 @@ Rainbow
 Blue
 Green
 Purple 
+Yellow
 Red
 
 Let's go to bed !
