@@ -5,6 +5,7 @@ Green
 Purple 
 Yellow
 Pink
+Indigo
 Red
 
 Let's go to bed !
