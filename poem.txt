@@ -4,6 +4,7 @@ Blue
 Green
 Purple 
 Yellow
+Pink
 Red
 
 Let's go to bed !
