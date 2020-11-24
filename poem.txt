@@ -1,4 +1,5 @@
-Rainbows and Unicorns
+Rainbows, Pony, Horses and the Unicorns
+
 
 Blue
 Green
@@ -11,6 +12,9 @@ Red
 Let's go to bed !
 The unicorn is all set
 up !
+
+Horses say:
+tadaa !
 
 Pony says:
 Hiiiiee !!!
